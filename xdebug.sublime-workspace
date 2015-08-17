@@ -1,0 +1,473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"ser",
+				"searchWorker"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"ver",
+				"verifyImgSrc"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"getran",
+				"mt_getrandmax"
+			],
+			[
+				"marin",
+				"margin-right"
+			],
+			[
+				"main-i",
+				"main-i_action"
+			],
+			[
+				"_html",
+				"_html_ctrl"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xdebug",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"xdebug:stop",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/zithan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/zithan/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/Controller/IndexController.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/index.php",
+		"/opt/lampp/htdocs/gdr-mobile/php-console-master/examples/index.php",
+		"/opt/lampp/htdocs/gdr-mobile/test.php",
+		"/opt/lampp/htdocs/gdr-mobile/Chromephp/ChromePhp.php",
+		"/opt/lampp/etc/php.ini",
+		"/opt/lampp/htdocs/gdr-mobile/xdebug.sublime-project",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/View/Worker/edit.html",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/View/Worker/index.html",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/Controller/WorkerController.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/User/Model/UcenterMemberModel.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/User/Conf/config.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/User/Api/UserApi.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/Common/Conf/config.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/Controller/PublicController.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/Model/WorkerModel.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/User/Api/Api.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/Conf/config.php",
+		"/opt/lampp/htdocs/gdr-mobile/ThinkPHP/Library/Think/Model.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/Common/Common/function.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/View/Index/index.html",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/View/Worker/search.html",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/View/Public/login.html",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/View/Worker/add.html",
+		"/opt/lampp/htdocs/gdr-mobile/Public/MobileHome/mobile-home.css",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/Model/MemberModel.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/ThinkPHP/Library/Think/Verify.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/MobileHome/View/worker/index.html",
+		"/opt/lampp/htdocs/onethink/Application/Admin/Model/MemberModel.class.php",
+		"/opt/lampp/htdocs/onethink/Application/Home/Model/MemberModel.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Application/Admin/View/Index/index.html",
+		"/opt/lampp/htdocs/gdr-mobile/Application/Admin/Controller/IndexController.class.php",
+		"/opt/lampp/htdocs/gdr-mobile/Public/Admin/admin-index.css",
+		"/opt/lampp/htdocs/gongdiren/App/Admin/View/Public/login.html",
+		"/opt/lampp/htdocs/gongdiren/Public/core/admin/signin.css",
+		"/opt/lampp/htdocs/gongdiren/App/User/Model/UcenterMemberModel.class.php",
+		"/opt/lampp/htdocs/gongdiren/index.php",
+		"/opt/lampp/htdocs/gongdiren/App/Common/Conf/config.php",
+		"/opt/lampp/htdocs/gongdiren/App/Admin/Model/MemberModel.class.php",
+		"/opt/lampp/htdocs/gongdiren/App/Admin/Controller/PublicController.class.php",
+		"/opt/lampp/htdocs/gongdiren/App/Common/Common/function.php",
+		"/opt/lampp/htdocs/onethink/Application/User/Conf/config.php",
+		"/opt/lampp/htdocs/gongdiren/App/User/Conf/config.php",
+		"/opt/lampp/htdocs/gongdiren/App/Admin/Controller/MemberController.class.php",
+		"/opt/lampp/htdocs/gongdiren/ThinkPHP/Library/Think/Verify.class.php",
+		"/opt/lampp/htdocs/onethink/Application/Home/Controller/UserController.class.php",
+		"/opt/lampp/htdocs/onethink/Application/User/Model/UcenterMemberModel.class.php",
+		"/opt/lampp/htdocs/onethink/Application/User/Api/UserApi.class.php",
+		"/opt/lampp/htdocs/onethink/Application/User/Api/Api.class.php",
+		"/opt/lampp/htdocs/onethink/Application/Home/Common/function.php",
+		"/opt/lampp/htdocs/onethink/Application/Home/View/default/User/login.html",
+		"/opt/lampp/htdocs/onethink/Application/User/Common/common.php",
+		"/opt/lampp/htdocs/onethink/Application/Admin/Controller/PublicController.class.php",
+		"/opt/lampp/htdocs/onethink/Application/Common/Common/function.php",
+		"/opt/lampp/htdocs/onethink/Application/Admin/Common/function.php",
+		"/opt/lampp/htdocs/gongdiren/App/Admin/Common/function.php",
+		"/opt/lampp/htdocs/onethink/Application/Admin/Logic/BaseLogic.class.php",
+		"/opt/lampp/htdocs/onethink/Application/Admin/View/Public/login.html",
+		"/opt/lampp/htdocs/gongdiren/ThinkPHP/Library/Think/Think.class.php",
+		"/opt/lampp/htdocs/gongdiren/ThinkPHP/Library/Think/Crypt/Driver/Think.class.php",
+		"/opt/lampp/htdocs/gongdiren/README.md",
+		"/opt/lampp/htdocs/gongdiren/App/Admin/View/Index/index.html",
+		"/home/zithan/zithan-git.pub",
+		"/home/zithan/.ssh/id_rsa.pub",
+		"/opt/lampp/htdocs/gongdiren/Public/bootstrap/docs/examples/jumbotron/index.html",
+		"/home/zithan/zithan-git",
+		"/opt/lampp/htdocs/gongdiren/App/Admin/Controller/IndexController.class.php",
+		"/opt/lampp/htdocs/gongdiren/Public/bootstrap/docs/examples/starter-template/index.html",
+		"/opt/lampp/htdocs/gongdiren/Public/bootstrap-3.3.5/docs/examples/dashboard/index.html",
+		"/opt/lampp/htdocs/gongdiren/Public/bootstrap-3.3.5/docs/examples/blog/index.html",
+		"/opt/lampp/htdocs/gongdiren/Public/bootstrap-3.3.5/docs/index.html",
+		"/opt/lampp/htdocs/gongdiren/App/Admin/Model/UserModel.class.php",
+		"/opt/lampp/htdocs/gongdiren/App/Admin/Controller/untitled",
+		"/opt/lampp/htdocs/gongdiren/App/Home/Controller/IndexController.class.php",
+		"/opt/lampp/htdocs/gongdiren/App/Home/View/index.html",
+		"/opt/lampp/htdocs/gongdiren/App/Home/index.html",
+		"/opt/lampp/htdocs/gongdiren/App/index.html",
+		"/opt/lampp/htdocs/gongdiren/ThinkPHP/ThinkPHP.php",
+		"/opt/lampp/htdocs/gongdiren/Application/index.html",
+		"/opt/lampp/htdocs/test/testPhpFunc.php",
+		"/home/zithan/桌面/slider/silder.html",
+		"/home/zithan/.config/sublime-text-3/Packages/User/HTML.sublime-settings",
+		"/home/zithan/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xde",
+			"curl",
+			"[Curl",
+			"[curl",
+			"echo phpinfo();exit();",
+			"		\n",
+			"sex",
+			"button",
+			"butto",
+			"<label for=\"fullname\">姓名：</label>\n        <input type=\"text\" name=\"fullname\" id=\"fullname\">  ",
+			"php",
+			"  \n",
+			"        \n",
+			"<a href=\"#\" data-role=\"button\">jjjj</a>",
+			"think_ucenter_md5",
+			"user",
+			"get_client_ip",
+			"ksort",
+			"sha1",
+			"http_build_query",
+			"data_auth_sign",
+			"autoLogin",
+			"action_log",
+			"		\n",
+			"Verify",
+			"reloadverify",
+			"            \n",
+			"bootstrap-3.3.5",
+			"dashboard",
+			"i",
+			"');\n",
+			"div class=\"main-i\">\n          <div class=\"caption\">\n            <h2>h2 caption</h2>\n            <h3>h3 caption</h3>\n          </div>\n          <img src=\"image/1.jpg\">\n        </div>",
+			"<div class=\"ctrl\">\n          <a href=\"javascript:;\" class=\"ctrl-i\">\n            <img src=\"image/1.jpg\">\n          </a>\n        </div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "xdebug.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"worker",
+				"Application/MobileHome/Controller/WorkerController.class.php"
+			],
+			[
+				"worker/index",
+				"Application/MobileHome/View/Worker/index.html"
+			],
+			[
+				"edit",
+				"Application/MobileHome/View/Worker/edit.html"
+			],
+			[
+				"api",
+				"Application/User/Api/Api.class.php"
+			],
+			[
+				"userpi",
+				"Application/User/Api/UserApi.class.php"
+			],
+			[
+				"uc",
+				"Application/User/Model/UcenterMemberModel.class.php"
+			],
+			[
+				"model",
+				"ThinkPHP/Library/Think/Model.class.php"
+			],
+			[
+				"ve",
+				"ThinkPHP/Library/Think/Verify.class.php"
+			],
+			[
+				"veri",
+				"ThinkPHP/Library/Think/Verify.class.php"
+			],
+			[
+				"ver",
+				"ThinkPHP/Library/Think/Verify.class.php"
+			],
+			[
+				"config.ph",
+				"Application/Common/Conf/config.php"
+			],
+			[
+				"config",
+				"Application/Common/Conf/config.php"
+			],
+			[
+				"v",
+				"ThinkPHP/Library/Think/Verify.class.php"
+			],
+			[
+				"verif",
+				"ThinkPHP/Library/Think/Verify.class.php"
+			],
+			[
+				"think.class.php",
+				"ThinkPHP/Library/Think/Crypt/Driver/Think.class.php"
+			],
+			[
+				"think.class",
+				"ThinkPHP/Library/Think/Think.class.php"
+			],
+			[
+				"think",
+				"ThinkPHP/ThinkPHP.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"23":
+				{
+					"group": 0,
+					"index": 0
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

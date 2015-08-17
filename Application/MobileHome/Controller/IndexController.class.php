@@ -6,7 +6,8 @@ class IndexController extends Controller {
     	if(is_login()) {
 			$this->display();
     	} else {
-    		$this->display('Public/login');
+            $this->display();
+    		//$this->display('Public/login');
     	}
     }
 }

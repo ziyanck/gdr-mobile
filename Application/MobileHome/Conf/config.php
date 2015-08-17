@@ -1,8 +1,5 @@
 <?php
 return array(
-	// '配置项'=>'配置值'
-	// 默认错误跳转对应的模板文件
-    // 'TMPL_ACTION_ERROR' => 'Public:error',
-    // 默认成功跳转对应的模板文件
-    // 'TMPL_ACTION_SUCCESS' => 'Public:success',
+    // 项目代号为动态的，日后做进数据库
+    'PROJECT_CODE'                => 'SD',
 );
